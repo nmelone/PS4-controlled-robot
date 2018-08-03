@@ -1,0 +1,6 @@
+# PS4-controlled-robot
+The code to control a robot using Arduinos and a PS4 controller
+
+This project was the coding portion for designing, building, and operating a robot for the Association of Technology, Management, and Applied Engineering competition November 2017. This was collaborative project with 4 members total with each person bringing a different background to achieve the overall goal. There were 2 Mechincal Engineering, 1 Industrial Engineering, and 1 Computer Science student. The idea was to creat a robot that had a controllable arm mounted to a platform that allowed the robot to move around a play area. 
+
+The arm had 4 degrees of freedom along with a gripper that was all controlled by a PS4 controller as well as the movement of the Vex Mechinum wheels allowing for omnidirectional movement. This was all enabled with the use of 2 Arduino microcontrollers, an Arduino Duo and an Arduino Mega, that worked in tandum to control each motor or servo individually. This project took about 2 months to complete in our spare time after classes and during competition we won 2nd place. This was the first time any of us had ever built a robot and it was our schools first time competeing in this competition. 
