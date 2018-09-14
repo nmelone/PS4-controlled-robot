@@ -86,15 +86,7 @@ void loop() {
     } //End of PS4.getAnaloghat if() statement 
 
     //Arm Controls
-    /*CURRENT ISSUE 05-OCT-2017
-     * When set to getButtonPress causes arm to go crazy
-     * activates more than the intended servo cause unknown
-     * when the button is release arm returns to the position it was
-     * already in before pressing the button
-     * FROM LIBRARY NOTES
-     * getButtonPress(ButtonEnum b) will return true as long as the button is held down.
-     * While getButtonClick(ButtonEnum b) will only return it once.
-     */
+    
     if(PS4.getButtonClick(TRIANGLE)|| PS4.getButtonPress(TRIANGLE)){//open the elbow
       armCommand = 0;
       tellArm();

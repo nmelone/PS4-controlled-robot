@@ -2,7 +2,7 @@
  * ArmSlaveCommands.iso
  *
  *  Created on: Sep 30, 2017
- *      Author: redsc_000 and nmelone
+ *      Author: redsc_000
  */
 
 // Including all Libraries used for ArmSlaveCommands ----------
